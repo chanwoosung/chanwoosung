@@ -1,1 +1,3 @@
 this is the text	
+public static void main(String[]agrs){
+}
